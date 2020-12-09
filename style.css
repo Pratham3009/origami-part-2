@@ -1,0 +1,22 @@
+.header{
+    background-color: aqua;
+    display:flex;
+    justify-content: center;
+}
+.site-description{
+    stroke: aqua;
+    display: flex;
+    flex-direction: column;
+    justify-content: first baseline;
+}
+.grid{
+    stroke: aqua;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+}
